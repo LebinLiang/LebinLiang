@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Liang Lebin</h1>
+  <h1>Lebin Liang</h1>
   <p>
     <b>M.S. Student @ SIAT, CAS (Electronic Information)</b>
     <br/>
@@ -19,7 +19,7 @@
 <a id="english-version"></a>
 <details open> <summary><strong>🇬🇧 English Version (Click to expand/collapse)</strong></summary>
 
-# 👋 Hello, I'm Liang Lebin!
+# 👋 Hello, I'm Lebin Liang !
 
 
 Hi there! I'm a Master's student at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, majoring in Electronic Information. I'm deeply passionate about **Mobile Robotics**, **Embedded Systems**, **EmbodiedAI**, **Autonomous Driving**! 🤖🚗
