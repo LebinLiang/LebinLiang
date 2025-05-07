@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Liang Lebin (Michael)</h1>
+  <h1>Liang Lebin</h1>
   <p>
     <b>M.S. Student @ SIAT, CAS (Electronic Information)</b>
     <br/>
