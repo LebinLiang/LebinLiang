@@ -21,9 +21,6 @@
 
 # 👋 Hello, I'm Liang Lebin (Michael)!
 
-<picture>
-  <img alt="An interesting banner image, e.g., a dancing robot or code rain" src="https://your-image-link/default_banner.gif">
-</picture>
 
 Hi there! I'm a Master's student at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, majoring in Electronic Information. I'm deeply passionate about **Mobile Robotics**, **Embedded Systems**, **EmbodiedAI**, **Autonomous Driving**! 🤖🚗
 
@@ -143,12 +140,6 @@ I'm always working on upgrading my skill tree. Currently equipped with:
 <details> <summary><strong>🇨🇳 中文版本 (Click to expand/collapse)</strong></summary>
 
 # 👋 你好，我是梁乐彬 (Michael Liang)!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://你的图片链接/dark_mode_banner.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://你的图片链接/light_mode_banner.gif">
-  <img alt="有趣的Banner图，比如一个正在跳舞的机器人或者代码雨" src="https://你的图片链接/default_banner.gif">
-</picture>
 
 嗨！我是一名来自中国科学院大学深圳先进技术研究院的在读硕士研究生，主攻电子信息方向，也是一枚对**移动机器人**、**嵌入式系统**、**EmbodiedAI**和**自动驾驶**充满无限热情的探索者！🤖🚗
 
