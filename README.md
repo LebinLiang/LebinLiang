@@ -19,7 +19,7 @@
 <a id="english-version"></a>
 <details open> <summary><strong>🇬🇧 English Version (Click to expand/collapse)</strong></summary>
 
-# 👋 Hello, I'm Liang Lebin (Michael)!
+# 👋 Hello, I'm Liang Lebin!
 
 
 Hi there! I'm a Master's student at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, majoring in Electronic Information. I'm deeply passionate about **Mobile Robotics**, **Embedded Systems**, **EmbodiedAI**, **Autonomous Driving**! 🤖🚗
