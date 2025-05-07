@@ -5,7 +5,7 @@
     <br/>
     <i>Passionate about Mobile Robotics, Embedded Systems, Autonomous Driving & Sim2Real</i>
     <br/>
-    <a href="mailto:michael_b@qq.com">📧 Email</a> | <a href="[Your LinkedIn Profile URL]">🔗 LinkedIn</a> | <a href="https://github.com/YOUR_GITHUB_USERNAME">🐙 GitHub Profile</a>
+    <a href="mailto:michael_b@qq.com">📧 Email</a> | <a href="[Your LinkedIn Profile URL]">🔗 LinkedIn</a> | <a href="https://github.com/LebinLiang">🐙 GitHub Profile</a>
   </p>
 </div>
 <hr style="height:1px;border:none;color:#ddd;background-color:#ddd;" />
@@ -25,7 +25,7 @@
   <img alt="An interesting banner image, e.g., a dancing robot or code rain" src="https://your-image-link/default_banner.gif">
 </picture>
 
-Hi there! I'm a Master's student at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, majoring in Electronic Information. I'm deeply passionate about **Mobile Robotics**, **Embedded Systems**, **EmbodiedA** and **Autonomous Driving**! 🤖🚗
+Hi there! I'm a Master's student at the Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences, majoring in Electronic Information. I'm deeply passionate about **Mobile Robotics**, **Embedded Systems**, **EmbodiedAI**, **Autonomous Driving**! 🤖🚗
 
 You can call me Michael, currently based in **Shenzhen, Guangdong**. I love getting my hands dirty, turning code and circuits into cool, functional robots.
 
