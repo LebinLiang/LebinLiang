@@ -129,7 +129,7 @@ I'm always working on upgrading my skill tree. Currently equipped with:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LebinLiang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 </details>
@@ -247,20 +247,10 @@ I'm always working on upgrading my skill tree. Currently equipped with:
 
 ---
 
-## 📊 我的 GitHub 统计数据 (My GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="梁乐彬的GitHub统计"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical&hide_border=true" alt="梁乐彬最常用的语言"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=radical&hide_border=true" alt="梁乐彬的GitHub提交记录"/>
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LebinLiang&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 </details>
