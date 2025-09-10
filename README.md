@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Lebin Liang</h1>
   <p>
-    <b>M.S. Student @ SIAT, CAS (Electronic Information)</b>
+    <b>M.Eng. Student @ SIAT, CAS (Electronic Information)</b>
     <br/>
     <i>Passionate about Mobile Robotics, Embedded Systems, Autonomous Driving & Sim2Real</i>
     <br/>
@@ -28,7 +28,7 @@ You can call me Michael, currently based in **Shenzhen, Guangdong**. I love gett
 
 **✨ A Few "Fun" Facts About Me:**
 
-* 🎓 Graduated from South China Agricultural University with a major in Agricultural Mechanization and Automation, ranking **1st** with a GPA of **4.36/5**. Yes, high-tech can bloom in agricultural machinery too!
+* 🎓 Graduated from South China Agricultural University with a major in Agricultural Mechanization and Automation, ranking **1st** with a GPA of **4.31/5**. Yes, high-tech can bloom in agricultural machinery too!
 * 🧠 Currently an intern at Sony China Research Institute (RDC Shenzhen), tackling the lower-level system design and reinforcement learning deployment for **bipedal robots**. Making robots walk is even more thrilling than it sounds!
 * 🏆 A RoboMaster competition veteran, part of a team that clinched a national first prize, and also topped a national smart car competition. Code changes the world, and wins competitions!
 * 🛠️ Passionate about building robots from scratch – from hardware design (Altium Designer, STM32) to software development (ROS, C++, Python), and all the way to dynamics modeling and control.
@@ -113,7 +113,7 @@ I'm always working on upgrading my skill tree. Currently equipped with:
 <details>
 <summary>🤖 Click to Expand My Project Experience 🤖</summary>
 
-* **Sony China Research Institute - Bipedal Robot Development (Internship 2025):**
+* **SONY (CHINA) CO., LTD SHENZHEN BRANCH (RDC-Shenzhen) - Bipedal Robot Development (Internship 2025):**
     * Responsible for lower-level system design & development (STM32F407, various communication protocols).
     * Involved in dynamics modeling, RL motion control in Isaac Lab, and Sim2Real deployment.
     * Highlights: Online detection, emergency power-off, power monitoring safety features.
@@ -169,9 +169,9 @@ I'm always working on upgrading my skill tree. Currently equipped with:
 
 **✨ 关于我的一点“趣”事:**
 
-* 🎓 本科GPA **4.36/5**，专业排名**第一**毕业于华南农业大学 (双一流) 农业机械化及其自动化专业。没错，农业机械也能玩出高科技！
+* 🎓 本科GPA **4.31/5**，专业排名**第一**毕业于华南农业大学 (双一流) 农业机械化及其自动化专业。没错，农业机械也能玩出高科技！
 * 🧠 目前在索尼中国研究院 (RDC深圳) 实习，正在挑战**双足机器人**的下位机系统设计和强化学习部署。让机器人学会走路，比想象中还要刺激！
-* 🏆 RoboMaster 赛场老兵，曾随队斩获全国一等奖，也曾在智能车竞赛中拔得头筹。代码改变世界，也能赢得比赛！
+* 🏆 RoboMaster 赛场，曾随队斩获全国一等奖，也曾在智能车竞赛中拔得头筹。代码改变世界，也能赢得比赛！
 * 🛠️ 热衷于从0到1打造机器人，从硬件设计 (Altium Designer, STM32) 到软件开发 (ROS, C++, Python)，再到动力学建模与控制，我都乐在其中。
 * 👨‍🏫 曾在大疆创新 RoboMaster 担任嵌入式方向助教，带领中学生们踏入机器ンの奇妙世界。教学相长，其乐无穷！
 
