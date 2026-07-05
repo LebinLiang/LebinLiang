@@ -8,16 +8,6 @@
     <a href="mailto:michael_b@qq.com">📧 Email</a> | <a href="https://lebinliang.github.io/">👨‍🏫 My Website | <a href="https://www.linkedin.com/in/lebin-liang-a1251137a/">🔗 LinkedIn</a> | <a href="https://github.com/LebinLiang">🐙 GitHub Profile</a>  <a href="https://space.bilibili.com/10843076?spm_id_from=333.1296.0.0)">📺 Bilibili</a>
   </p>
 </div>
-<hr style="height:1px;border:none;color:#ddd;background-color:#ddd;" />
-
-<p align="center">
-  <strong><a href="#english-version">🇬🇧 English</a></strong> 
-</p>
-
-<hr/>
-
-<a id="english-version"></a>
-<details open> <summary><strong>🇬🇧 English Version (Click to expand/collapse)</strong></summary>
 
 # 👋 Hello, I'm Lebin Liang !
 
