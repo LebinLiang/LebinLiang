@@ -19,7 +19,7 @@ You can call me Michael, currently based in **Shenzhen, Guangdong**. I love gett
 **✨ A Few "Fun" Facts About Me:**
 
 * 🎓 Graduated from South China Agricultural University with a major in Agricultural Mechanization and Automation, ranking **1st** with a GPA of **4.31/5**. Yes, high-tech can bloom in agricultural machinery too!
-* 🧠 Currently an intern at Sony China Research Institute (RDC Shenzhen), tackling the lower-level system design and reinforcement learning deployment for **bipedal robots**. Making robots walk is even more thrilling than it sounds!
+* 🧠 Used to be an intern at Sony China Research Institute (RDC Shenzhen), tackling the lower-level system design and reinforcement learning deployment for **bipedal robots**. Making robots walk is even more thrilling than it sounds!
 * 🏆 A RoboMaster competition veteran, part of a team that clinched a national first prize, and also topped a national smart car competition. Code changes the world, and wins competitions!
 * 🛠️ Passionate about building robots from scratch – from hardware design (Altium Designer, STM32) to software development (ROS, C++, Python), and all the way to dynamics modeling and control.
 * 👨‍🏫 Served as an Embedded Systems Teaching Assistant for DJI RoboMaster's high school camps, guiding students into the fascinating world of robotics. Sharing knowledge is a joy!
