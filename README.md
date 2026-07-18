@@ -16,7 +16,7 @@
 
 ---
 
-Hi, I'm Lebin (Michael) — an engineer at **DJI** building embedded and robotics systems, while finishing my **M.Eng.** in Electronic Information at UCAS (SIAT). B.Eng. from South China Agricultural University (major rank: 1st, GPA 4.31/5).
+Hi, I'm Lebin (Michael) — an engineer at **DJI**, while finishing my **M.Eng.** in Electronic Information at UCAS (SIAT). B.Eng. from South China Agricultural University (major rank: 1st, GPA 4.31/5).
 
 My path runs through RoboMaster, competition robots, and R&D at Sony and DJI — spanning mobile robotics, embodied intelligence, HCI/HRI, and reinforcement learning. Off the bench, I'm a film photographer and maker. More on my **[personal website](https://lebinliang.github.io/)**.
 
@@ -24,8 +24,8 @@ My path runs through RoboMaster, competition robots, and R&D at Sony and DJI —
 
 ## 🔭 Now
 
-- 🤖 Building embedded & robotics systems at **DJI**
-- 📚 M.Eng. at UCAS (SIAT), expected June 2026
+- 🤖 Work in **DJI**
+- 📚 M.Eng. at UCAS (SIAT)
 - 🛠️ Open-source side projects ([Geek Lab](https://lebinliang.github.io/#geek)):
   - [FilmScan Pro](https://github.com/LebinLiang/film_scan) — browser-based film negative scanner
   - [ESP32 Audio-Reactive LED](https://github.com/LebinLiang/ESP32-Audio-LED-)
